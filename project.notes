@@ -1,0 +1,22 @@
+Instructions:
+
+A customer is asking for an application program they can give out to their HR department to help speed up business operations. 
+You have been given the following acceptance criteria:
+
+Given I have an array of employee records that include their birthday.
+When I execute this application program with the array of employees.
+Then I am returned an array of employees who's birthday is in the current month.
+
+Guidelines: 
+  1) Build a runnable application program that meets the above acceptance criteria. 
+  2) Use the language and development tools of your choice. 
+  3) The user interface for this application is up to you but it should include some way for the user to ask questions and get
+   output from the application. 
+  4) Be sure to write testcases and explain how you tested the program.
+
+Be prepared to:
+- Present your application program and walk through how you have met the acceptance criteria
+- Talk about how you architected your program and how the different elements work together to solve the problem
+- Talk about how you have tested it
+- Discuss any challenges you encountered.
+- Discuss how you would improve the program for various dimensions such as scalability, performance, supportability, usability.

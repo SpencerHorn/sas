@@ -1,0 +1,92 @@
+---
+- !ruby/object:Employee
+  phone_numbers:
+  - !ruby/object:PhoneNumber
+    kind: Cell
+    number: 919-322-8072
+  addresses:
+  - !ruby/object:Address
+    kind: Home
+    street_1: 619 Minnestott Way
+    street_2: ''
+    city: Durham
+    state: NC
+    postal_code: '27704'
+  first_name: Spencer
+  middle_name: Larry
+  last_name: Horn
+  birth_month: July
+  birth_day: '17'
+  birth_year: '1979'
+- !ruby/object:Employee
+  phone_numbers: []
+  addresses: []
+  first_name: Sara
+  middle_name: Lynn
+  last_name: Parker
+  birth_month: November
+  birth_day: '07'
+  birth_year: '1982'
+- !ruby/object:Employee
+  phone_numbers: []
+  addresses: []
+  first_name: Jason
+  middle_name: Tye
+  last_name: Horn
+  birth_month: October
+  birth_day: '13'
+  birth_year: '1975'
+- !ruby/object:Employee
+  phone_numbers: []
+  addresses: []
+  first_name: Bob
+  middle_name: ''
+  last_name: Ross
+  birth_month: September
+  birth_day: '03'
+  birth_year: '1980'
+- !ruby/object:Employee
+  phone_numbers: []
+  addresses: []
+  first_name: Bob
+  middle_name: ''
+  last_name: Saget
+  birth_month: September
+  birth_day: '14'
+  birth_year: '1963'
+- !ruby/object:Employee
+  phone_numbers: []
+  addresses: []
+  first_name: Daffy
+  middle_name: ''
+  last_name: Duck
+  birth_month: September
+  birth_day: '01'
+  birth_year: '1942'
+- !ruby/object:Employee
+  phone_numbers: []
+  addresses: []
+  first_name: Marilyn
+  middle_name: ''
+  last_name: Monroe
+  birth_month: June
+  birth_day: ''
+  birth_year: '1926'
+- !ruby/object:Employee
+  phone_numbers: []
+  addresses: []
+  first_name: Oliver
+  middle_name: N
+  last_name: Horn
+  birth_month: September
+  birth_day: '02'
+  birth_year: '2003'
+- !ruby/object:Employee
+  phone_numbers: []
+  addresses: []
+  first_name: Eiley
+  middle_name: L
+  last_name: Horn
+  birth_month: February
+  birth_day: '11'
+  birth_year: '2004'
