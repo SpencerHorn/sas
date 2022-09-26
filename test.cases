@@ -1,0 +1,24 @@
+1. As a user I should be able to enter and save a new employee record including their birthday so that I can search for that employee
+  a. Launch application by typing 'ruby address_book.rb' in the command prompt at the root of this application directory
+  b. From the Main Menu select 'a' to Add an employee
+  c. When prompted enter the employees first name
+  d. When prompted enter the employees middle name
+  e. When prompted enter the employees last name
+  f. When prompted enter the employees birth month
+  g. When prompted enter the employees birth day
+  h. When prompted enter the employees birth year
+  i. When prompted enter the employees phone number or address, press any key to go back to the main menu
+  j. From the Main Menu select 's' to search for your user
+  k. When prompted enter the first or last name of the employee record you entered
+  l. Confirm the employee you entered is displayed
+
+2. As a user I should be able to see a list of employees who are celebraiting a birthday for the current month
+  a. Launch application by typing 'ruby address_book.rb' in the command prompt at the root of this application directory
+  b. From the Main Menu select 'b' to display a list of employees who are celebrating a birthday this month
+  c. Confirm all employees listed display a birthday for the current month
+
+3. As a user when I search by birthday I should see a list of employees who are celebrating a birthday that month
+  a. Launch application by typing 'ruby address_book.rb' in the command prompt at the root of this application directory
+  b. From the Main Menu select 's' to search employee records
+  c. When prompted for a search term, enter a month you wish to search the employee records for
+  d. Confirm all employees listed display a birthday for the month entered in the search terms
