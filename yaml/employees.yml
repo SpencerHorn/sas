@@ -108,3 +108,21 @@
   birth_month: November
   birth_day: '15'
   birth_year: '2019'
+- !ruby/object:Employee
+  phone_numbers: []
+  addresses: []
+  first_name: Susan
+  middle_name: ''
+  last_name: Gibson
+  birth_month: December
+  birth_day: '17'
+  birth_year: '2001'
+- !ruby/object:Employee
+  phone_numbers: []
+  addresses: []
+  first_name: June
+  middle_name: ''
+  last_name: Smith
+  birth_month: May
+  birth_day: '17'
+  birth_year: '1980'

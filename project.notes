@@ -18,8 +18,19 @@ Be prepared to:
 - Present your application program and walk through how you have met the acceptance criteria
 - Talk about how you architected your program and how the different elements work together to solve the problem
 - Talk about how you have tested it
+
+  I tested functionality by ensuring everything worked and saved correctly. Making sure I could search by full or partial text and get the correct results.  I tested the usability of the application to ensure it wasnt confusing and it was easy to read.
+
 - Discuss any challenges you encountered.
+
+  (scope creep)
+  I would say at first definitely scope, without an application already developed to test, I really had to stay focused on the requirements and focus for this assignment, its easy to get carried away with wanting to get all sides of the application perfect.
+  
+  (formatting)
+  Birthday, I implemented the simplest solution to meet the requirements. Spending the time to implement standard format of (MM/DD/YYYY) could have been done but would have required more time and work, such as mapping out an array of month numbers to month names.  I prefer to get the smallest version in front of the users who are going to be using the application as soon as possible to get their feedback first, before implementing features or designs that might not be valuable or confusing the the users who will be using the application.
+
 - Discuss how you would improve the program for various dimensions such as scalability, performance, supportability, usability.
+
   Improve error handling and general confirmation messages / communication to the end user
   Convert birthday input to standard format that most users are used to seeing, IE (MM/DD/YYYY) format
   Implement code to cover additional test cases listed in the test.cases file
