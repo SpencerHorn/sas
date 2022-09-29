@@ -20,3 +20,14 @@ Be prepared to:
 - Talk about how you have tested it
 - Discuss any challenges you encountered.
 - Discuss how you would improve the program for various dimensions such as scalability, performance, supportability, usability.
+  Improve error handling and general confirmation messages / communication to the end user
+  Convert birthday input to standard format that most users are used to seeing, IE (MM/DD/YYYY) format
+  Implement code to cover additional test cases listed in the test.cases file
+  Improve search functionality to search on all fields, currently missing address and phone number search
+  Save data to a proper database instead of a yaml file
+  Add authentication to ensure only users with proper privileges can access the application
+  Address security concerns to prevent exposure to sensitive data
+  Create a responsive web front end
+  Perform performance and load testing and set acceptable boundaries
+  Once a web front end is implemented confirm the application responds correctly across many browsers, devices and screen resolutions
+  Carry out user testing to ensure the user experience of the application is intuitive

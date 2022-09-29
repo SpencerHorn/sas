@@ -90,3 +90,21 @@
   birth_month: February
   birth_day: '11'
   birth_year: '2004'
+- !ruby/object:Employee
+  phone_numbers: []
+  addresses: []
+  first_name: Cohen
+  middle_name: Avery
+  last_name: Horn
+  birth_month: June
+  birth_day: '06'
+  birth_year: '2014'
+- !ruby/object:Employee
+  phone_numbers: []
+  addresses: []
+  first_name: Jane
+  middle_name: ''
+  last_name: Horn
+  birth_month: November
+  birth_day: '15'
+  birth_year: '2019'

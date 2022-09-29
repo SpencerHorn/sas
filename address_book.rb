@@ -161,6 +161,8 @@ class AddressBook
         address.postal_code = gets.chomp
         employee.addresses.push(address)
       else
+        puts "Employee saved!  Press any key to continue"
+        gets.chomp
         puts "\e[H\e[2J"
         break
       end
